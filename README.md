@@ -7,6 +7,7 @@ Data analysis will involve sales trends, customer preferences, promotion effecti
 **Formulate the best business strategy** based on data analysis to achieve a 20% revenue increase in 2018 compared to 2017, with the aim of enabling business expansion in 2019.
 
 ### DATASET ###
+The dataset records every transaction that occurred at Maven Toys stores from January 2017 - September 2018, with approximately 829K transactions.
 [Maven Toys Dataset](https://github.com/aqhbarhabib4/Market-Analysis-and-Strategy-Development-for-Maven-Toys/tree/main/Dataset)
 
 ### KEY DATA ANALYSIS TASKS ###
