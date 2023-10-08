@@ -9,7 +9,14 @@ Data analysis will involve sales trends, customer preferences, promotion effecti
 ### DATASET ###
 [Maven Toys Dataset](https://github.com/aqhbarhabib4/Market-Analysis-and-Strategy-Development-for-Maven-Toys/tree/main/Dataset)
 
-### DO ###
+### KEY DATA ANALYSIS TASKS ###
+* **Data Cleansing:** Prepare and cleanse data for analysis, ensuring it is ready for use.
+* **Exploratory Data Analysis (EDA) and Visualization:** Conduct EDA and visualization to unearth valuable insights into sales performance from January 2017 to September 2018.
+* **Revenue Forecasting for Q4 2018:** Utilize an advanced XGBoost model to forecast total revenue for the fourth quarter of 2018, assessing the feasibility of achieving the 20% revenue growth target.
+* **Store and Product Segmentation:** Employ a KMeans model to segment stores and products, identifying groups with high and low revenue growth potential.
+* **Average Daily Revenue Forecasting:** Develop an XGBoost model to forecast average daily revenue per store, serving as a benchmark for Q4 performance.
+* **Interactive Dashboard Creation:** Craft an interactive dashboard to visualize and monitor crucial components related to Sales Evaluation and Sales Prediction.
+* **Insight Generation and Strategy Formulation:** Extract critical insights and formulate actionable recommendations necessary for achieving predefined targets.
 
 ### SKILL SETS ###
 * Business Understanding (Critical Thinking & Problem Solving).
