@@ -4,7 +4,7 @@ The data analyst team is tasked with analyzing digital transaction data since 20
 Data analysis will involve sales trends, customer preferences, promotion effectiveness, as well as other external factors. This team will **provide recommendations based on data findings, assisting Maven Toys in data-driven strategic decision-making**. The ultimate goal is to achieve greater success and expand their presence in the competitive toy market.
 
 ### OBJECTIVE ###
-Formulate the best business strategy based on data analysis to achieve a 20% revenue increase in 2018 compared to 2017, with the aim of enabling business expansion in 2019.
+**Formulate the best business strategy** based on data analysis to achieve a 20% revenue increase in 2018 compared to 2017, with the aim of enabling business expansion in 2019.
 
 ### DATASET ###
 [Maven Toys Dataset](https://github.com/aqhbarhabib4/Market-Analysis-and-Strategy-Development-for-Maven-Toys/tree/main/Dataset)
