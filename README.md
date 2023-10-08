@@ -11,5 +11,14 @@ Data analysis will involve sales trends, customer preferences, promotion effecti
 
 ### DO ###
 
+### SKILL SETS ###
+* Business Understanding (Critical Thinking & Problem Solving).
+* Data Cleaning (Python)
+* Exploratory Data Analysis/Visualization (EDA/EDV - Python & Tableau)
+* Forecasting Analysis (Python)
+* Clustering Analysis (Python)
+* Data Visualization (Tableau)
+* Generating Insights and Recommendation 
+
 ### PRESENTATION DECK ###
 [MAVEN TOYS ANALYSIS](https://drive.google.com/file/d/1Ww_0zNW7MFBCajMN8tBCgdR-YltXqIe5/view?usp=drive_link)
