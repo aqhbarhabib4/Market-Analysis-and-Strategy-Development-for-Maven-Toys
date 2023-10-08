@@ -15,8 +15,7 @@ Data analysis will involve sales trends, customer preferences, promotion effecti
 * Business Understanding (Critical Thinking & Problem Solving).
 * Data Cleaning (Python)
 * Exploratory Data Analysis/Visualization (EDA/EDV - Python & Tableau)
-* Forecasting Analysis (Python)
-* Clustering Analysis (Python)
+* Machine Learning (Forecasting & Clustering - Python)
 * Data Visualization (Tableau)
 * Generating Insights and Recommendation 
 
